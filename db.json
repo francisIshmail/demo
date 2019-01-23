@@ -1,22 +1,22 @@
 [
-    {
-        "memberNo": "8005/03",
-        "name": "Dna"
-    },
-    {
-        "memberNo": "8006",
-        "name": "Dante"
-    },
-    {
-        "memberNo": "8006/01",
-        "name": "Danye"
-    },
-    {
-        "memberNo": "8006/02",
-        "name": "Bun"
-    },
-    {
-        "memberNo": "26056789",
-        "name": "DAVID GATHARA"
-    }
+   {
+      "memberNo":"8005/03",
+      "name":"Dna"
+   },
+   {
+      "memberNo":"8006",
+      "name":"Dante"
+   },
+   {
+      "memberNo":"8006/01",
+      "name":"Danye"
+   },
+   {
+      "memberNo":"8006/02",
+      "name":"Bun"
+   },
+   {
+      "memberNo":"26056789",
+      "name":"DAVID GATHARA"
+   }
 ]
