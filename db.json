@@ -1,111 +1,60 @@
-{  
-   "coupons":[  
-      {  
-         "store":"ebay",
-         "coupon":"Get upto 20% off on hand bags",
-         "expiryDate":"10/10/2016",
-         "couponCode":"ER4",
-         "category":"fashion"
-      },
-      {  
-         "store":"ebay",
-         "coupon":"Get upto 20% off on hand bags",
-         "expiryDate":"10/10/2016",
-         "couponCode":"ER4",
-         "category":"fashion"
-      },{  
-         "store":"ebay",
-         "coupon":"Get upto 20% off on hand bags",
-         "expiryDate":"10/10/2016",
-         "couponCode":"ER4",
-         "category":"fashion"
-      },{  
-         "store":"ebay",
-         "coupon":"Get upto 20% off on hand bags",
-         "expiryDate":"10/10/2016",
-         "couponCode":"ER4",
-         "category":"fashion"
-      },{  
-         "store":"ebay",
-         "coupon":"Get upto 20% off on hand bags",
-         "expiryDate":"10/10/2016",
-         "couponCode":"ER4",
-         "category":"fashion"
-      },{  
-         "store":"ebay",
-         "coupon":"Get upto 20% off on hand bags",
-         "expiryDate":"10/10/2016",
-         "couponCode":"ER4",
-         "category":"fashion"
-      },{  
-         "store":"ebay",
-         "coupon":"Get upto 20% off on hand bags",
-         "expiryDate":"10/10/2016",
-         "couponCode":"ER4",
-         "category":"fashion"
-      },
-      {  
-         "store":"amazon",
-         "coupon":"Get upto 5% off on mobile phones",
-         "expiryDate":"11/11/2016",
-         "couponCode":"TRG4",
-         "category":"electronics"
-      },
-      {  
-         "store":"etsy",
-         "coupon":"Get upto 25% off on jeans",
-         "expiryDate":"09/09/2016",
-         "couponCode":"ERT4",
-         "category":"fashion"
-      },
-      {  
-         "store":"bestbuy",
-         "coupon":"Get upto 30% off on televisions",
-         "expiryDate":"20/11/2016",
-         "couponCode":"343",
-         "category":"electronics"
-      },
-      {  
-         "store":"sears",
-         "coupon":"Get upto 50% off on home and kitchen",
-         "expiryDate":"11/10/2016",
-         "couponCode":"ER3",
-         "category":"home"
-      },
-      {  
-         "store":"walmart",
-         "coupon":"Get upto 10% off on baby products",
-         "expiryDate":"17/09/2016",
-         "couponCode":"we33",
-         "category":"baby"
-      },
-      {  
-         "store":"kohls",
-         "coupon":"Get upto 22% off on kids fashion",
-         "expiryDate":"",
-         "couponCode":"err4",
-         "category":"kids fashion"
-      },
-      {  
-         "store":"macys",
-         "coupon":"Get upto 19% off on fashion",
-         "expiryDate":"10/12/2016",
-         "couponCode":"DSF3",
-         "category":"fashion"
-      },
-      {  
-         "store":"jcpenney",
-         "coupon":"Get upto 10% off on bedsheets",
-         "expiryDate":"11/12/2016",
-         "couponCode":"wew",
-         "category":"home"
-      },
-      {  
-         "store":"wayfair",
-         "coupon":"Get 5% off on everything",
-         "expiryDate":"02/10/2016",
-         "couponCode":"233",
-         "category":"all"
-      }
-   ]
-}
+[
+    {
+        "memberNo": "CLL001",
+        "name": "Duncan Omwoyo"
+    },
+ 
+    {
+        "memberNo": "03102018",
+        "name": "Lawrence Maleya"
+    },
+    {
+        "memberNo": "1234",
+        "name": "Francis Ishmail"
+    },
+    {
+        "memberNo": "00000",
+        "name": "Moreen Ndiga"
+    },
+    {
+        "memberNo": "987654",
+        "name": "Hussein Mursall"
+    },
+    {
+        "memberNo": "8005/03",
+        "name": "Dna"
+    },
+    {
+        "memberNo": "8006",
+        "name": "Dante"
+    },
+    {
+        "memberNo": "8006/01",
+        "name": "Danye"
+    },
+    {
+        "memberNo": "8006/02",
+        "name": "Bun"
+    },
+    {
+        "memberNo": "8007/02",
+        "name": "wer"
+    },
+ 
+    {
+        "memberNo": "2019/01",
+        "name": "Dante"
+    },
+    {
+        "memberNo": "26069874",
+        "name": "SYLVIA KANYORO"
+    },
+    {
+        "memberNo": "25750081",
+        "name": "ROSEMARY WAMBUI"
+    },
+    {
+        "memberNo": "26056789",
+        "name": "DAVID GATHARA"
+    }
+]
